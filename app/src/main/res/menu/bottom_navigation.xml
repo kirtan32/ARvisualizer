@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/nav_doodler"
+        android:icon="@drawable/doodler"
+        android:title="Doodler"/>
+
+    <item
+        android:id="@+id/nav_objplacer"
+        android:icon="@drawable/objectplacer"
+        android:title="Object Placer"/>
+
+
+    <item
+        android:id="@+id/nav_filters"
+        android:icon="@drawable/filters"
+        android:title="Filters"/>
+
+    <item
+        android:id="@+id/nav_funmode"
+        android:icon="@drawable/funmode"
+        android:title="funmode"/>
+
+</menu>
